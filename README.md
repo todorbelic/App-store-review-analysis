@@ -18,9 +18,9 @@ Ovaj projekat bavi se prikupljanjem, čuvanjem, obradom i vizualizacijom takvih 
 
 Zanima ga kako korisnici reaguju na nove verzije aplikacije, koji problemi se ponavljaju u recenzijama i kako se sentiment menja kroz vreme. Želi da dobije upozorenje kada neka aplikacija naglo padne u ocenama nakon update-a, kao i da razume koje kategorije grešaka dominiraju u negativnim recenzijama.
 
-### Persona 2 — Marko, ASO konsultant
+### Persona 2 — Konsultant
 
-App Store Optimization konsultant koji analizira konkurentske aplikacije za više klijenata. Zanima ga poređenje performansi aplikacija po kategorijama, trendovi sentimenta na različitim tržištima (SAD, Evropa, Indija), kao i identifikacija aplikacija koje dobijaju neuobičajeno visok broj negativnih recenzija u kratkom periodu (tzv. review bombing).
+Konsultant koji analizira konkurentske aplikacije za više klijenata. Zanima ga poređenje performansi aplikacija po kategorijama, trendovi sentimenta na različitim tržištima (SAD, Evropa, Indija), kao i identifikacija aplikacija koje dobijaju neuobičajeno visok broj negativnih recenzija u kratkom periodu (tzv. review bombing).
 
 ---
 
